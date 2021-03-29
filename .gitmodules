@@ -1,0 +1,6 @@
+[submodule "greyhub.github.io"]
+	path = greyhub.github.io
+	url = git@github.com:greyhub/greyhub.github.io.git
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/your-identity/hugo-theme-dimension.git
